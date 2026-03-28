@@ -1,5 +1,7 @@
 namespace UltimateSortingAlgorithmsTestWithBenchmark.SortingAlgorithm;
 
+// C# implementation of different sorting algorithms copied from https://www.geeksforgeeks.org/sorting-algorithms/
+
 public class SortingAlgorithm
 {
     public void Setup()
